@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/mdlayher/ethernet"
-	"github.com/mdlayher/raw"
+	"github.com/iotrentil/raw"
 )
 
 var (

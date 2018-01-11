@@ -7,7 +7,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/mdlayher/arp"
+	"github.com/iotrentil/arp"
 	"github.com/mdlayher/ethernet"
 )
 

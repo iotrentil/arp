@@ -7,4 +7,3 @@ MIT Licensed.
 Portions of this code are taken from the Go standard library.  The Go
 standard library is Copyright (c) 2012 The Go Authors. All rights reserved.
 The Go license can be found at https://golang.org/LICENSE.
-byclip
